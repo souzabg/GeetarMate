@@ -1,6 +1,6 @@
-# 🎸 StrumMate – Your Guitar Practice Companion
+# 🎸 GeetarMate – Your Guitar Practice Companion
 
-StrumMate is a desktop JavaFX application built to help guitarists structure their practice, explore chords, and stay consistent with daily challenges. Designed for players of all skill levels, StrumMate offers an intuitive interface and helpful tools to support a productive practice routine.
+GeetarMate is a desktop JavaFX application built to help guitarists structure their practice, explore chords, and stay consistent with daily challenges. Designed for players of all skill levels, StrumMate offers an intuitive interface and helpful tools to support a productive practice routine.
 
 
 ---
